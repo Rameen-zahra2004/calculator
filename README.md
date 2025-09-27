@@ -7,4 +7,4 @@ HTML | CSS | JavaScript | Responsive Design
 
 ## Live Demo
 Check out the project live here:  
-[Click here to view the Weather App](https://github.com/Rameen-zahra2004/calculator.git)
+[Click here to view the Calculator App](https://github.com/Rameen-zahra2004/calculator.git)
